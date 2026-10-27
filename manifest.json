@@ -4,11 +4,6 @@
   "name": "Tsundere Overdrive",
   "description": "High-intensity tsundere text transformer for Revenge.",
   "version": "1.0.0",
-  "authors": [
-    {
-      "name": "Custom"
-    }
-  ],
   "dist": {
     "script": "index.js"
   }
